@@ -20,7 +20,9 @@ Menú restaurante - CSS básico
 https://random-projects-portafolio-x6qw.vercel.app/
 
 Motel Sol y Luna - Bootstrap
+<br>
 https://www.motelsolyluna.net/
+<br>
 https://github.com/jonvzcas002/Web-Motel-Sol-y-Luna.git
 
 ### Stack 
