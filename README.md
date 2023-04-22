@@ -18,7 +18,7 @@ Mi objetivo a mediano plazo es colaborar en proyectos que me permitan crecer pro
 <hr>
 https://random-projects-portafolio-x6qw.vercel.app/
 
-### Stack ⚡
+### Stack 
 <hr>
 <ul>
   <li>HTML5</li>
