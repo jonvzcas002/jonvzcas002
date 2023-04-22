@@ -3,14 +3,15 @@
 Mi nombre es Jonathan Castillo.
 
 Soy un apasionado de la tecnología con amplia experiencia en la:
-
-##### Instalación y configuración de redes de área local y enlaces inalámbricos
-##### Soporte técnico de sistemas informáticos. 
-
+<ul>
+  <li>Instalación y configuración de redes de área local y enlaces inalámbricos.</li>
+  <li>Soporte técnico de sistemas informáticos.</li> 
+</ul>
 Actualmente estoy en la búsqueda de nuevos desafíos, y me he enfocado en aprender de manera autodidacta el:
 
-#### Desarrollo web.
-
+<ul>
+  <li>Desarrollo web.</li>
+</ul>
 Mi objetivo a mediano plazo es colaborar en proyectos que me permitan crecer profesionalmente, y que tengan un impacto positivo en la sociedad. Si buscas un compañero para tu proyecto, ¡no dudes en contactarme!
 
 ### Algunos Proyectos 👯
