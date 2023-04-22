@@ -9,7 +9,7 @@ Soy un apasionado de la tecnología con amplia experiencia en la:
 
 Actualmente estoy en la búsqueda de nuevos desafíos, y me he enfocado en aprender de manera autodidacta el:
 
-#### desarrollo web.
+#### Desarrollo web.
 
 Mi objetivo a mediano plazo es colaborar en proyectos que me permitan crecer profesionalmente, y que tengan un impacto positivo en la sociedad. Si buscas un compañero para tu proyecto, ¡no dudes en contactarme!
 
