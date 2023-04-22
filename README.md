@@ -14,9 +14,17 @@ Actualmente estoy en la búsqueda de nuevos desafíos, y me he enfocado en apren
 </ul>
 Mi objetivo a mediano plazo es colaborar en proyectos que me permitan crecer profesionalmente, y que tengan un impacto positivo en la sociedad. Si buscas un compañero para tu proyecto, ¡no dudes en contactarme!
 
-### Algunos Proyectos 👯
+### Algunos Proyectos ⚡
 <hr>
 https://random-projects-portafolio-x6qw.vercel.app/
+### Stack ⚡
+<hr>
+<ul>
+  <li>HTML5</li>
+  <li>CSS</li>
+  <li>Bootstrap</li>
+</ul>
+
 <!--
 **jonvzcas002/jonvzcas002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
