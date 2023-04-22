@@ -4,8 +4,8 @@ Mi nombre es Jonathan Castillo.
 
 Soy un apasionado de la tecnología con amplia experiencia en la:
 
-#### Instalación y configuración de redes de área local y enlaces inalámbricos
-#### Soporte técnico de sistemas informáticos. 
+##### Instalación y configuración de redes de área local y enlaces inalámbricos
+##### Soporte técnico de sistemas informáticos. 
 
 Actualmente estoy en la búsqueda de nuevos desafíos, y me he enfocado en aprender de manera autodidacta el:
 
