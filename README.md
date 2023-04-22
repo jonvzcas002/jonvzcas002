@@ -16,7 +16,12 @@ Mi objetivo a mediano plazo es colaborar en proyectos que me permitan crecer pro
 
 ### Algunos Proyectos ⚡
 <hr>
+Menú restaurante - CSS básico
 https://random-projects-portafolio-x6qw.vercel.app/
+
+Motel Sol y Luna - Bootstrap
+https://www.motelsolyluna.net/
+https://github.com/jonvzcas002/Web-Motel-Sol-y-Luna.git
 
 ### Stack 
 <hr>
