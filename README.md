@@ -14,15 +14,6 @@ Actualmente estoy en la búsqueda de nuevos desafíos, y me he enfocado en apren
 </ul>
 Mi objetivo a mediano plazo es colaborar en proyectos que me permitan crecer profesionalmente, y que tengan un impacto positivo en la sociedad. Si buscas un compañero para tu proyecto, ¡no dudes en contactarme!
 
-### Algunos Proyectos ⚡
-<hr>
-Menú restaurante - CSS básico
-https://random-projects-portafolio-x6qw.vercel.app/
-
-Motel Sol y Luna - Bootstrap https://www.motelsolyluna.net/
-<br>
-https://github.com/jonvzcas002/Web-Motel-Sol-y-Luna.git
-
 ### Stack 
 <hr>
 <ul>
@@ -31,6 +22,21 @@ https://github.com/jonvzcas002/Web-Motel-Sol-y-Luna.git
   <li>Bootstrap</li>
 </ul>
 
+### Hobbies
+<hr>
+<ul>
+  <li>Correr en las mañanas :running:</li>
+  <li>Ver el már :blue_heart:</li>
+</ul>
+
+### Algunos Proyectos ⚡
+<hr>
+Menú restaurante - CSS básico
+https://random-projects-portafolio-x6qw.vercel.app/
+
+Motel Sol y Luna - Bootstrap https://www.motelsolyluna.net/
+<br>
+https://github.com/jonvzcas002/Web-Motel-Sol-y-Luna.git
 <!--
 **jonvzcas002/jonvzcas002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
