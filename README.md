@@ -31,10 +31,12 @@ Mi objetivo a mediano plazo es colaborar en proyectos que me permitan crecer pro
 
 ### Algunos Proyectos ⚡
 <hr>
-Menú restaurante - CSS básico
+1. Menú restaurante - CSS básico
 https://random-projects-portafolio-x6qw.vercel.app/
-
-Motel Sol y Luna - Bootstrap https://www.motelsolyluna.net/
+<br>
+2. ANSI/TIA Código de Colores - Colores CSS https://random-projects-portafolio.vercel.app/
+<br>
+3. Motel Sol y Luna - Bootstrap https://www.motelsolyluna.net/
 <br>
 https://github.com/jonvzcas002/Web-Motel-Sol-y-Luna.git
 <!--
