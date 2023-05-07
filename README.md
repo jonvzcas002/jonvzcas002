@@ -37,8 +37,6 @@ https://random-projects-portafolio-x6qw.vercel.app/
 2. ANSI/TIA Código de Colores - Colores CSS https://random-projects-portafolio.vercel.app/
 <br>
 3. Motel Sol y Luna - Bootstrap https://www.motelsolyluna.net/
-<br>
-https://github.com/jonvzcas002/Web-Motel-Sol-y-Luna.git
 <!--
 **jonvzcas002/jonvzcas002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
