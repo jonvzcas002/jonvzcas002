@@ -24,6 +24,7 @@ Mi objetivo a mediano plazo es **colaborar en proyectos** que me permitan crecer
 * Ver el már :blue_heart:
 
 ### Algunos Proyectos ⚡
+[enlace en línea](http://www.limni.net)
 <hr>
 1.[Menú restaurante - CSS básico](https://random-projects-portafolio-x6qw.vercel.app/)
 1.[ANSI/TIA Código de Colores - Colores CSS](https://random-projects-portafolio.vercel.app/)
