@@ -25,6 +25,6 @@ Mi objetivo a mediano plazo es **colaborar en proyectos** que me permitan crecer
 
 ### Algunos Proyectos ⚡
 <hr>
-1. [Menú restaurante - CSS básico](https://random-projects-portafolio-x6qw.vercel.app/)
-1. [ANSI/TIA Código de Colores - Colores CSS](https://random-projects-portafolio.vercel.app/)
-1. [Motel Sol y Luna - Bootstrap](https://www.motelsolyluna.net/)
+1.[Menú restaurante - CSS básico](https://random-projects-portafolio-x6qw.vercel.app/)
+1.[ANSI/TIA Código de Colores - Colores CSS](https://random-projects-portafolio.vercel.app/)
+1.[Motel Sol y Luna - Bootstrap](https://www.motelsolyluna.net/)
