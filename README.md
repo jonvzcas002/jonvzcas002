@@ -1,4 +1,4 @@
-### Cordial saludo 👋
+### Hola 😄
 
 Mi nombre es: Jonathan Castillo.
 
