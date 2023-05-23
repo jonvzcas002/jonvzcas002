@@ -1,15 +1,15 @@
 ### Cordial saludo 👋
 
-Mi nombre es Jonathan Castillo.
+Mi nombre es: Jonathan Castillo.
 
 Soy un apasionado de la tecnología con amplia experiencia en la:
 
-* Instalación y configuración de redes de área local y tecnologías inalámbricas.
-* Soporte técnico de sistemas informáticos.
+* Instalación de Cableado Estructurado, Configuración de Redes de Área Local y Tecnologías Inalámbricas (Redes UniFi, Puntos de Acceso y Estaciones).
+* Soporte técnico de sistemas informáticos y usuario final.
 
-Actualmente estoy en la búsqueda de nuevos desafíos, y me he enfocado en aprender de manera autodidacta el:
+### Actualmente
 
-* Desarrollo web.
+Estoy en la búsqueda de nuevos desafíos, y es por ello que actualmente estoy capacitandome en el dedesarrollo de _**Tecnologías Web.**_
 
 Mi objetivo a mediano plazo es **colaborar en proyectos** que me permitan crecer profesionalmente, y que tengan un impacto positivo en la sociedad. Si buscas un compañero para tu proyecto, _¡no dudes en contactarme!_
 
@@ -17,6 +17,13 @@ Mi objetivo a mediano plazo es **colaborar en proyectos** que me permitan crecer
 
 * HTML5
 * CSS
+* Bootstrap
+
+### Técnicas y Herramientas
+
+* VS Code
+* Markdown
+* GitHub
 
 ### Hobbies
 
