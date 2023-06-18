@@ -2,6 +2,7 @@
 
 Mi nombre es _Jonathan Castillo_.
 <br>
+<br>
 Vivo en Colombia, me gusta sentarme a ver el mar, meditar, correr, aprender cada día algo nuevo. Disfruto de pasar tiempo con familia y seres queridos, así como el contacto con las personas.
 
 Descubrí que me gustaba la tecnología cuando vi por primera vez la pantalla negra con el promt parpadeando. 
