@@ -1,4 +1,4 @@
-### Hola 😄
+### Hola 
 
 Mi nombre es: Jonathan Castillo.
 
@@ -9,7 +9,7 @@ Soy un apasionado de la tecnología con amplia experiencia en la:
 
 ### Actualmente
 
-Estoy en la búsqueda de nuevos desafíos, y es por ello que actualmente estoy capacitandome en el dedesarrollo de _**Tecnologías Web.**_
+Estoy en la búsqueda de nuevos desafíos, y es por ello que actualmente estoy incursionando exhaustivamente en el desarrollo de _**Tecnologías Web.**_ especificamente la parte del **Backend (_lado del servidor con Java Script_).**
 
 Mi objetivo a mediano plazo es **colaborar en proyectos** que me permitan crecer profesionalmente, y que tengan un impacto positivo en la sociedad. Si buscas un compañero para tu proyecto, _¡no dudes en contactarme!_
 
@@ -31,9 +31,9 @@ Mi objetivo a mediano plazo es **colaborar en proyectos** que me permitan crecer
 
 ### Algunos Proyectos ⚡
 
-<!-- [Menú restaurante - CSS básico](https://random-projects-portafolio-x6qw.vercel.app/)
+[Menú restaurante - CSS básico](https://random-projects-portafolio-x6qw.vercel.app/)
 <br>
 [ANSI/TIA Código de Colores - Colores CSS](https://random-projects-portafolio.vercel.app/)
-<br> -->
+<br> 
 [Motel Sol y Luna - Bootstrap](https://www.motelsolyluna.net/)
 <br>
