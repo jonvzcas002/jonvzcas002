@@ -6,9 +6,11 @@ Vivo en Colombia, me gusta sentarme a ver el mar, meditar, correr, aprender cada
 Descubrí que me gustaba la tecnología cuando vi por primera vez la pantalla negra con el promt parpadeando. 
 Desde hace más de 6 años he tenido la oportunidad de desarrollar proyectos relacionados con:
 
-✅**Instalación de Cableado Estructurado** 
-✅**Configuración de Redes de Área Local y Tecnologías Inalámbricas (Redes UniFi, Puntos de Acceso y Estaciones)**
-✅**Soporte Técnico de Sistemas Informáticos y Usuario Final**
+✅ _Instalación de Cableado Estructurado._
+<br>
+✅ _Configuración de Redes de Área Local y Tecnologías Inalámbricas (Redes UniFi, Puntos de Acceso y Estaciones)._
+<br>
+✅ _Soporte Técnico de Sistemas Informáticos y Usuario Final._
 
 ### Actualmente🔥
 
@@ -18,19 +20,22 @@ Mi objetivo a mediano plazo es **colaborar en proyectos ** que me permitan crece
 
 ### Stack
 
-* HTML5
-* CSS (Conocimiento Base)
+✅ HTML5
+<br>
+✅ CSS (Conocimiento Base)
 
 ### Técnicas y Herramientas
 
-* VS Code
-* Markdown
-* GitHub
+✅ VS Code
+<br>
+✅ Markdown
+<br>
+✅ GitHub
 
 ### Hobbies
 
-* Correr en las mañanas :running:
-* Ver el már :blue_heart:
+:running: Correr en las mañanas 
+:blue_heart: Ver el már 
 
 ### Algunos Proyectos ⚡
 
