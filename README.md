@@ -1,17 +1,20 @@
-### Hola 
+### _Hola!_ 😊
 
-Mi nombre es: Jonathan Castillo.
+Mi nombre es _Jonathan Castillo_.
+Vivo en Colombia, me gusta sentarme a ver el mar, meditar, correr, aprender cada día algo nuevo. Disfruto de pasar tiempo con familia y seres queridos, así como el contacto con las personas.
 
-Soy un apasionado de la tecnología con amplia experiencia en la:
+Descubrí que me gustaba la tecnología cuando vi por primera vez la pantalla negra con el promt parpadeando. 
+Desde hace más de 6 años he tenido la oportunidad de desarrollar proyectos relacionados con:
 
-* Instalación de Cableado Estructurado, Configuración de Redes de Área Local y Tecnologías Inalámbricas (Redes UniFi, Puntos de Acceso y Estaciones).
-* Soporte técnico de sistemas informáticos y usuario final.
+✅**Instalación de Cableado Estructurado** 
+✅**Configuración de Redes de Área Local y Tecnologías Inalámbricas (Redes UniFi, Puntos de Acceso y Estaciones)**
+✅**Soporte Técnico de Sistemas Informáticos y Usuario Final**
 
-### Actualmente
+### Actualmente🔥
 
-Estoy en la búsqueda de nuevos desafíos, y es por ello que actualmente estoy incursionando exhaustivamente en el desarrollo de _**Tecnologías Web.**_ especificamente la parte del **Backend (_lado del servidor con Java Script_).**
+Estoy en la búsqueda de nuevos desafíos, y es por ello que estoy incursionando exhaustivamente en el desarrollo de _**Tecnologías Web.**_ especificamente la parte del **Backend (_lado del servidor con Java Script_).**
 
-Mi objetivo a mediano plazo es **colaborar en proyectos** que me permitan crecer profesionalmente, y que tengan un impacto positivo en la sociedad. Si buscas un compañero para tu proyecto, _¡no dudes en contactarme!_
+Mi objetivo a mediano plazo es **colaborar en proyectos ** que me permitan crecer profesionalmente, y que tengan un impacto positivo en la sociedad. Si buscas un compañero para tu proyecto, _¡no dudes en contactarme!_
 
 ### Stack
 
