@@ -5,6 +5,7 @@ Mi nombre es _Jonathan Castillo_.
 Vivo en Colombia, me gusta sentarme a ver el mar, meditar, correr, aprender cada día algo nuevo. Disfruto de pasar tiempo con familia y seres queridos, así como el contacto con las personas.
 
 Descubrí que me gustaba la tecnología cuando vi por primera vez la pantalla negra con el promt parpadeando. 
+<br>
 Desde hace más de 6 años he tenido la oportunidad de desarrollar proyectos relacionados con:
 
 ✅ _Instalación de Cableado Estructurado._
@@ -21,23 +22,23 @@ Mi objetivo a mediano plazo es **colaborar en proyectos** que me permitan crecer
 
 ### Stack
 
-✅ HTML5
+✅ _HTML5._
 <br>
-✅ CSS (Conocimiento Base)
+✅ _CSS (Conocimiento Base)._
 
 ### Técnicas y Herramientas
 
-✅ VS Code
+✅ _VS Code._
 <br>
-✅ Markdown
+✅ _Markdown._
 <br>
-✅ GitHub
+✅ _GitHub._
 
 ### Hobbies
 
-:running: Correr en las mañanas 
+:running: _Correr en las mañanas._ 
 <br>
-:blue_heart: Ver el már 
+:blue_heart: _Ver el már._ 
 
 ### Algunos Proyectos ⚡
 
