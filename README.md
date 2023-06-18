@@ -16,8 +16,7 @@ Mi objetivo a mediano plazo es **colaborar en proyectos** que me permitan crecer
 ### Stack
 
 * HTML5
-* CSS
-* Bootstrap
+* CSS (Conocimiento Base)
 
 ### Técnicas y Herramientas
 
