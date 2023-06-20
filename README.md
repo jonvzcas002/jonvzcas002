@@ -26,7 +26,8 @@ Mi objetivo a mediano plazo es **colaborar en proyectos** que me permitan crecer
 ✅ _HTML5._
 <br>
 ✅ _CSS (Conocimiento Base)._
-✅ _BataBase (Diseño & Modelado)._
+<br>
+✅ _Bases de Datos Relacionales (Diseño & Modelado)._
 
 ### Técnicas y Herramientas
 
