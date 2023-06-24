@@ -44,10 +44,10 @@ Mi objetivo a mediano plazo es **colaborar en proyectos** que me permitan crecer
 :blue_heart: _Ver el már._ 
 
 ### Algunos Proyectos ⚡
-
+[Motel Sol y Luna - Bootstrap](https://www.motelsolyluna.net/)
+<br>
 [Menú restaurante - CSS básico](https://random-projects-portafolio-x6qw.vercel.app/)
 <br>
 [ANSI/TIA Código de Colores - Colores CSS](https://random-projects-portafolio.vercel.app/)
-<br> 
-[Motel Sol y Luna - Bootstrap](https://www.motelsolyluna.net/)
-<br>
+
+
