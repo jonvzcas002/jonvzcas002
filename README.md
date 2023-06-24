@@ -20,7 +20,7 @@ Desde hace más de 6 años he tenido la oportunidad de desarrollar proyectos rel
 Estoy en la búsqueda de nuevos desafíos, y es por ello que estoy incursionando exhaustivamente en el desarrollo de _**Tecnologías Web,**_ especificamente la parte del **Backend (_lado del servidor con Java Script_).**
 
 Mi objetivo a mediano plazo es **colaborar en proyectos** que me permitan crecer profesionalmente, y que tengan un impacto positivo en la sociedad. Si buscas un compañero para tu proyecto, _¡no dudes en contactarme!_
-
+<!--
 ### Stack
 
 ✅ _HTML5._
@@ -36,7 +36,7 @@ Mi objetivo a mediano plazo es **colaborar en proyectos** que me permitan crecer
 ✅ _Markdown._
 <br>
 ✅ _GitHub._
-
+-->
 ### Hobbies
 
 :running: _Correr en las mañanas._ 
