@@ -2,7 +2,7 @@
 
 ### Actualmente🔥
 
-Estoy en la búsqueda de nuevos desafíos, y es por ello que me estoy enfocando en adquiriri habilidades relacionadas con _**Tecnologías Web,**_ especificamente la parte del **Backend (_lado del servidor con node.js_).**
+Estoy en la búsqueda de nuevos desafíos, y es por ello que estoy enfocado en adquirir habilidades relacionadas con _**Tecnologías Web,**_ especificamente la parte del **Backend (_lado del servidor con node.js_).**
 
 Mi objetivo a mediano plazo es **colaborar en proyectos** que me permitan crecer profesionalmente, y que tengan un impacto positivo en la sociedad. Si buscas un compañero para tu proyecto, _¡no dudes en contactarme!_
 
