@@ -19,4 +19,4 @@ Mi objetivo a mediano plazo es **colaborar en proyectos** que me permitan crecer
 <br>
 [ANSI/TIA Código de Colores - Colores CSS](https://random-projects-portafolio.vercel.app/)
 
-![html](html-logo.png)
+![html](html-logo.png){width=60px}
