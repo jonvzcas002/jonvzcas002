@@ -1,16 +1,16 @@
 <img src="hi.gif">
 
-### Actualmente🔥
+### Currently 🔥
 
-Estoy en la búsqueda de nuevos desafíos, y es por ello que estoy enfocado en adquirir habilidades relacionadas con _**Tecnologías Web,**_ especificamente la parte del **Backend (_lado del servidor con node.js_).**
+I am looking for new challenges, and that is why I am focused on acquiring skills related to _**Web Technologies,**_ specifically the **Backend part (_server side with node.js_).**
 
-Mi objetivo a mediano plazo es **colaborar en proyectos** que me permitan crecer profesionalmente, y que tengan un impacto positivo en la sociedad. Si buscas un compañero para tu proyecto, _¡no dudes en contactarme!_
+My medium-term goal is **to collaborate in projects** that allow me to grow professionally, and that have a positive impact on society. If you are looking for a partner for your project, _don't hesitate to contact me!_
 
 ### Hobbies
 
-:running: _Correr en las mañanas._ 
+:running: _Running in the mornings._ 
 <br>
-:blue_heart: _Ver el már._ 
+:blue_heart: _Watch the sea._ 
 
 ### Algunos Proyectos ⚡
 [Motel Sol y Luna - Bootstrap](https://www.motelsolyluna.net/)
