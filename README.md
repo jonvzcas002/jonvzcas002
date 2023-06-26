@@ -6,11 +6,15 @@ I am looking for new challenges, and that is why I am focused on acquiring skill
 
 My medium-term goal is **to collaborate in projects** that allow me to grow professionally, and that have a positive impact on society. If you are looking for a partner for your project, _don't hesitate to contact me!_
 
+---
+
 ### Hobbies
 
 :running: _Running in the mornings._ 
 <br>
 :blue_heart: _Watch the sea._ 
+
+---
 
 ### Some projects ⚡
 [Motel Sol y Luna - Bootstrap](https://www.motelsolyluna.net/)
