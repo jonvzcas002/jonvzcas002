@@ -8,7 +8,7 @@ Me enamoré de tecnología cuando vi por primera vez la pantalla negra con el pr
 <br>
 
 ### Actualmente🔥
-[HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png)
+[!HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png)
 Estoy en la búsqueda de nuevos desafíos, y es por ello que me estoy enfocando en adquiriri habilidades relacionadas con _**Tecnologías Web,**_ especificamente la parte del **Backend (_lado del servidor con node.js_).**
 
 Mi objetivo a mediano plazo es **colaborar en proyectos** que me permitan crecer profesionalmente, y que tengan un impacto positivo en la sociedad. Si buscas un compañero para tu proyecto, _¡no dudes en contactarme!_
