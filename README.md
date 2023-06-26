@@ -12,7 +12,7 @@ My medium-term goal is **to collaborate in projects** that allow me to grow prof
 <br>
 :blue_heart: _Watch the sea._ 
 
-### Algunos Proyectos ⚡
+### Some projects ⚡
 [Motel Sol y Luna - Bootstrap](https://www.motelsolyluna.net/)
 <br>
 [Menú restaurante - CSS básico](https://random-projects-portafolio-x6qw.vercel.app/)
