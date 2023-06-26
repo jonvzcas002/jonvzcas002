@@ -1,7 +1,7 @@
 
 
 ### Actualmente🔥
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" style="width:60px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" style="width:50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" style="width:60px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" style="width:45px">
 
 Estoy en la búsqueda de nuevos desafíos, y es por ello que me estoy enfocando en adquiriri habilidades relacionadas con _**Tecnologías Web,**_ especificamente la parte del **Backend (_lado del servidor con node.js_).**
 
