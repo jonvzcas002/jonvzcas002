@@ -1,14 +1,7 @@
-### _Hola!_ 😊
 
-Mi nombre es _Jonathan Castillo_.
-<br>
-<br>
-Vivo en Colombia, me gusta sentarme frente al mar, salir a correr aprender cada día algo nuevo. 
-Me enamoré de tecnología cuando vi por primera vez la pantalla negra con el promt parpadeando. 
-<br>
 
 ### Actualmente🔥
-![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png width=300px)
+![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png {width=300px})
 
 Estoy en la búsqueda de nuevos desafíos, y es por ello que me estoy enfocando en adquiriri habilidades relacionadas con _**Tecnologías Web,**_ especificamente la parte del **Backend (_lado del servidor con node.js_).**
 
