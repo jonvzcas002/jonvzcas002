@@ -6,6 +6,8 @@ I am looking for new challenges, and that is why I am focused on acquiring skill
 
 My medium-term goal is **to collaborate in projects** that allow me to grow professionally, and that have a positive impact on society. If you are looking for a partner for your project, _don't hesitate to contact me!_
 
+<img src="html-logo.png" style="width:50px"><span>&nbsp;&nbsp;&nbsp;</span><img src="css-logo.png" style="width:50px"><span>&nbsp;&nbsp;&nbsp;</span><img src="javascript-logo.png" style="width:50px"><span>&nbsp;&nbsp;&nbsp;</span><img src="node-js-logo.png" style="width:140px">
+
 ---
 
 ### Hobbies
@@ -23,4 +25,4 @@ My medium-term goal is **to collaborate in projects** that allow me to grow prof
 <br>
 [ANSI/TIA Código de Colores - Colores CSS](https://random-projects-portafolio.vercel.app/)
 
-<img src="html-logo.png" style="width:50px"><span>&nbsp;&nbsp;&nbsp;</span><img src="css-logo.png" style="width:50px"><span>&nbsp;&nbsp;&nbsp;</span><img src="javascript-logo.png" style="width:50px"><span>&nbsp;&nbsp;&nbsp;</span><img src="node-js-logo.png" style="width:140px">
+
